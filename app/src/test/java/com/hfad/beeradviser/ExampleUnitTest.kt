@@ -1,4 +1,4 @@
-package com.hfad.myfirstapp
+package com.hfad.beeradviser
 
 import org.junit.Test
 
